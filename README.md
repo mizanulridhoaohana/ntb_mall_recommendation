@@ -40,9 +40,16 @@ Untuk hasil akurasi (benar/total) dari kedua metode tersebut adalah sebagai beri
 
 
 tabel 
-| Algoritma          | Euclidean Distance | Cosine Similarity |
+| Algoritma          | Euclidean Distance | Cosine Similarity  |
 |--------------------|--------------------|--------------------|
 | Jumlah Query       |   Acc   |   MRR    |   Acc   |   MRR    |
 |--------------------|--------------------|--------------------|
-|   5                |  0.746  |  0.883   | 0.890   |  0.9525  |
+|   5                |  0.746  |  0.883   | 0.890   |  0.952   |
+|   10               |  0.642  |  0.888   | 0.834   |  0.953   |
+|   15               |  0.572  |  0.889   | 
+
+| Algoritma           | ET |
+|--------------------|--------------------|
+| Euclidean Distance | 0.6011999999999995 |
+| Cosine Similarity  | 0.7965777777777748 |
 
