@@ -35,8 +35,8 @@ Total data yang diperoleh adalah
 Untuk hasil akurasi (benar/total) dari kedua metode tersebut adalah sebagai berikut:
 | Algoritma           | Accuracy |
 |--------------------|--------------------|
-| Euclidean Distance | 0.6011999999999995 |
-| Cosine Similarity  | 0.7965777777777748 |
+| Euclidean Distance | 0.746 |
+| Cosine Similarity  | 0.890 |
 
 
 tabel 
@@ -49,13 +49,4 @@ tabel
 |   10               |  0.642  |  0.888   | 0.834   |  0.953   |
 |   15               |  0.572  |  0.889   | 0.796   |  0.954   |
 |   20               |  0.517  |  0.889   | 0.771   |  0.954   |
-|   25               |  0.472  |  0.889   |
-
-
-| Algoritma           | ET |
-|--------------------|--------------------|
-| Euclidean Distance | 0.6011999999999995 |
-| Cosine Similarity  | 0.7965777777777748 |
-
-26 
-
+|   25               |  0.472  |  0.889   | 0.754   |  0.954   |
