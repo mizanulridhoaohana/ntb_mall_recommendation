@@ -33,14 +33,16 @@ Total data yang diperoleh adalah
 1500 query x 15 data = 22500 row
 
 Untuk hasil akurasi (benar/total) dari kedua metode tersebut adalah sebagai berikut:
+
+Tabel 1. Hasil Evaluasi berdasarkan 5 Query
 | Algoritma           | Accuracy |
 |--------------------|--------------------|
 | Euclidean Distance | 0.746 |
 | Cosine Similarity  | 0.890 |
 
 
-tabel 
 
+Tabel 2. Percobaan Tiap Query
 | Algoritma          | Euclidean Distance | Euclidean Distance | Cosine Similarity | Cosine Similarity  |
 |--------------------|---------|----------|---------|----------|
 | **Jumlah Query**       |   **Acc**   |   **MRR**    |   **Acc**   |   **MRR**    |
